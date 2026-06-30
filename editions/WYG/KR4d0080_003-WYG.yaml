@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0080/WYG/v1/juan/3
+seq: 3
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0080_WYG_003-1a, image: WYG1110/WYG1110-0049a.png}
+body:
+  text: 施註蘇詩巻首原序宋序註蘇例言正註正偽註蘇姓氏贊勅本傳墓誌銘
+  hash: sha256:ef0b8457efdf71a530a349517d640346a204f0c3e1a55e26a21197484376812a
+metadata:
+  title: 施註蘇詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:53:20.855710'
+  juan_title: 卷首
+  source:
+    repository: kanripo
+    path: KR4d0080/KR4d0080_003.txt
+hash: sha256:bfcddfdc15f280e0eb67744635d1a062f8ab9bdaf18b9e55b92436795e314da9
