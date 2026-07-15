@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0080_WYG_003-1a, image: WYG1110/WYG1110-0049a.png}
 body:
-  text: 施註蘇詩巻首原序宋序註蘇例言正註正偽註蘇姓氏贊勅本傳墓誌銘
-  hash: sha256:ef0b8457efdf71a530a349517d640346a204f0c3e1a55e26a21197484376812a
+  text: 施注蘇詩卷首原序宋序注蘇例言正注正偽注蘇姓氏贊敕本傳墓志銘
+  hash: sha256:3ff82c1455ca1cc61bad9d2c840ac9f57dec11a306e88e9c191995a26d87a55d
 metadata:
   title: 施註蘇詩
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0080/KR4d0080_003.txt
-hash: sha256:97aa4b52a95e92793e291dd7f7be132b7db20440d097c67bb688295c266ad2d3
+hash: sha256:d71c9437a2b28b8272f831e8ed8c1a0125bf62ccde6a9885301c3dc394368357
